@@ -30,7 +30,7 @@ public class AccountGenerator {
      * ArrayList would be for containing the info
      * tuple would be for each pair of account
      *
-     *
+     *k;lk;lk
      * ------------
      * The getGeneratedAccounts is able to provide a list of accounts.
      * However, you would not be able to get balance.
