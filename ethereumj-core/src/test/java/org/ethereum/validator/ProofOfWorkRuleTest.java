@@ -60,7 +60,7 @@ public class ProofOfWorkRuleTest {
         assertFalse(rule.validate(b.getHeader()).success);
     }
 
-    @Ignore
+    //@Ignore
     @Test // stress test
     public void test_3() {
         int iterCnt = 1_000_000;
