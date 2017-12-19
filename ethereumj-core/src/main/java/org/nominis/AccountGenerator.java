@@ -31,7 +31,7 @@ public class AccountGenerator {
      * tuple would be for each pair of account
      *
      *
-     * -- ------------
+     * --7 ------------
      * The getGeneratedAccounts is able to provide a list of accounts.
      * However, you would not be able to get balance.
      * These accounts may only contain private keys, public key and addresses
